@@ -1,0 +1,5 @@
+For this project I had two big challenges. 
+
+The first was in the program. While unfortunately I ran out of time to include the logic of the game, I had to get all the cards rendered on screen to be synched up. This was a big challenge. You will notice that there is never more or less than 108 cards on the screen at once. Getting all the cards to appear in the right place at the right time took a lot of math but I figured it out. Honestly the textures which I thought would be my biggest challenge was the easiest. I wish I could have gotten better design on the player models but couldn't figure it out. 
+
+The second big challenge was time. I started this project on April 11th. But a week into working on the project I got assigned an android app design project. This is for the junior design class in the comp sci program. It took a lot of effort to coordinate with my team. Originally it was due a week before the graphics project allowing me time to get both done but the app got pushed further and further back. Thanks to your extensions along with a lot of long nights I managed to produce something I consider good. 
